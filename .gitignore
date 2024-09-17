@@ -1,0 +1,3 @@
+# Sanal ortam dosyalarını yoksay
+venv/
+*.zip
